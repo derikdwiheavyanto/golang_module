@@ -1,4 +1,4 @@
-package golangmodule
+package belajargolangmodule
 
 import "github.com/derikdwiheavyanto/golang_module/latihan"
 
