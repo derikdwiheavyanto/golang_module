@@ -1,4 +1,4 @@
-package golang_module
+package golangmodule
 
 import "github.com/derikdwiheavyanto/golang_module/latihan"
 
